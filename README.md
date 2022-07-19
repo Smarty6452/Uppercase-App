@@ -1,2 +1,2 @@
 # Uppercase-App
-A app hat convert your lowercase text to uppercase !
+A app that can convert your text from lowercase to uppercase !
